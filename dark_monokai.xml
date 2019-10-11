@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<style-scheme id="dark-monokai" _name="Dark Monokai" version="1.0">
+<style-scheme id="gruvbox-monokai" _name="Gruvbox Monokai" version="1.0">
 
   <style name="bracket-match"  background="#3e3d32" bold="true"/>
   <style name="bracket-mismatch"  background="#3e3d32" underline="true"/>
