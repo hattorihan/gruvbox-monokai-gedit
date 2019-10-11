@@ -1,3 +1,3 @@
-# dark-monokai-gedit
-Darker version of Monokai theme for gedit
+# gruvbox-monokai-gedit
+Combination of Gruvbox and Monokai theme for gEdit
 ![Screenshot](screenshot.png)
