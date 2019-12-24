@@ -3,19 +3,22 @@ Combination of Gruvbox and Monokai theme for Gedit
 
 ![Screenshot](screenshot.png)
 
-Download with wget and move to chosen folder below.
+How to install:
+
+- Download and move to one of folders below. 
+- Change theme in Gedit settings.
 
 ```bash
 wget https://raw.githubusercontent.com/hattorihan/gruvbox-monokai-gedit/master/dark_monokai.xml
 ```
 
-System wide install:
+System wide:
 
 ```bash
 /usr/share/gtksourceview-4/styles
 ```
 
-User install:
+User wide:
 
 ```bash
 ~/.local/share/gtksourceview-4/styles/
