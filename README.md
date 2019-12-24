@@ -5,7 +5,7 @@ Combination of Gruvbox and Monokai theme for Gedit
 
 **How to install:**
 
-- Download and move to one of folders below. 
+- Download and move to one of the folders below. 
 - Change theme in Gedit settings.
 
 ```bash
